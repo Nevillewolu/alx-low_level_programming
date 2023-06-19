@@ -2,11 +2,11 @@
 
 /**
  * main - entry point
- * Description - a program that prints the size of various types on the computer it is compiled on
+ * Description - a program that prints the size of various types
  * return: 0 (successful)
  */
 
-int main (void)
+int main(void)
 {
 	char c;
 	int d;
